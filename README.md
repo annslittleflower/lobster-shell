@@ -1,7 +1,6 @@
 # lobster-shell (need to make up better name)
-Stupid but technologically super advanced project made by two dreamers
-
-## List of required libs and stacks:
+App that allows people to share places
+## List of libs and stacks:
 
 
 **Front end**
@@ -14,6 +13,7 @@ Stupid but technologically super advanced project made by two dreamers
 6. GraphQL (Apollo-client)
 7. React-leaflet for OSM maps
 8. [Pannellum-React for panoramas (Great for desktop site)](https://www.npmjs.com/package/pannellum-react)
+9. Cypress for integration testing
 
 TO INVESTIGATE
 1. Some maps library
