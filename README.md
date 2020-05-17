@@ -10,26 +10,15 @@ Stupid but technologically super advanced project made by two dreamers
 2. React (latest with hooks)
 3. Atomic CSS
 4. Webpack
-5. [Date-fns](https://github.com/date-fns/date-fns "date-fns")
-6. [Formik for forms](https://github.com/jaredpalmer/formik "formik")
-7. GraphQL
-8. [Ungrid](https://github.com/chrisnager/ungrid/blob/gh-pages/ungrid.min.css "ungrid")
-9. [Cypress for integration testing](https://www.cypress.io/ "Cypress")
-10. [i18n](https://github.com/yankouskia/localize-react 'localize-react')
+5. [Formik for forms](https://github.com/jaredpalmer/formik "formik")
+6. GraphQL (Apollo-client)
+7. React-leaflet for OSM maps
+8. [Pannellum-React for panoramas (Great for desktop site)](https://www.npmjs.com/package/pannellum-react)
 
 TO INVESTIGATE
 1. Some maps library
 2. i18n smallest possible library
 3. Router - also smallest possible (but dontknow, maybe no need to think about it)
-
-**Patterns to use**
-
-1. App shell
-2. Image factory component
-3. React pages lazy loading
-4. Intersection observer lazy loading
-5. Combine previous two in one super cool component ( to lazy load whole module or page when its scrolled inside a viewport)
-6. A11Y
 
 **Cool libs**
 
@@ -38,7 +27,7 @@ TO INVESTIGATE
 **BACKEND**
 
 1. Express
-2. GraphQL
+2. GraphQL (Apollo-server)
 3. MongoDB
-4. Redis
-5. Docker
+4. Mongoose
+5. JWT
